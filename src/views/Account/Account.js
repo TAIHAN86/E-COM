@@ -1,10 +1,13 @@
 import React from 'react'
-import "./Home.css"
+import Navbar from '../../Componant/Navbar'
+import "./../Home/Home.css"
+
 
 function Home() {
   return (
     <div>
-      <h1 className='app-title'>▶️contact app</h1>
+      <Navbar/>
+      <h1 className='app-title'>Account </h1>
 
 
       <div classname="app-body">
