@@ -1,0 +1,50 @@
+.navbar{
+    background-color: rgba(0, 0, 0, 0.827);
+    opacity: 80%;
+    color:white;
+   
+}
+
+.nav-brand{
+    display: inline-block;
+    color: aliceblue;
+    margin-right: 38vw;
+    margin-left: 15px;
+    font-size: 1.5rem;
+}
+
+.nav-link{
+    color: rgb(244, 243, 243);
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    cursor: pointer;
+  
+  
+}
+
+/* CSS */
+.registeration {
+  background-color: #fff;
+  
+  border: 0 solid #e2e8f0;
+  border-radius: 1.5rem;
+  box-sizing: border-box;
+  color: #4ca570;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'poppins';
+  font-weight: 400;
+  line-height: 1;
+  padding: 8px 15px;
+  margin: 0px 8px;
+  text-align: center;
+  text-decoration: none #0d172a solid;
+  transition: all ease-out 0.3s;
+ 
+}
+
+.registeration:hover {
+  background-color: #61ab7e;
+  color: #fff;
+}
